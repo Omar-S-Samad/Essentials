@@ -8,20 +8,20 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - Camera
   - Water
   - UI
-  - Level
+  - Player
+  - Terrain
+  - Level Objects
+  - Level NPCs
+  - Enemy Objects
+  - Enemy NPCs
+  - Player Objects
+  - Player NPCs
   - 
   - 
   - 
-  - Enemies
-  - 
-  - 
-  - PowerUps
-  - 
-  - 
-  - PowerDowns
   - 
   - 
   - 
